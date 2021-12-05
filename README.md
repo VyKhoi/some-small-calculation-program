@@ -1,1 +1,1 @@
-# some-small-calculation-program
+# some small programs
